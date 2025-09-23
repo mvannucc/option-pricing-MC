@@ -9,7 +9,7 @@ Compared results with Black–Scholes closed-form solution and studied parameter
 - `Outputs/` – key plots from simulations.
 
 ## Example Result
-![Convergence of MC price](Outputs/nsim_european.png)
+![Convergence of MC price](Outputs/sensitivity/nsim/nsim_european.png)
 
 ## References
 
