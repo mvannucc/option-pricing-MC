@@ -39,7 +39,7 @@ and studied sensitivity to simulation parameters.
 8. **Conclusions**  
 9. **References**  
 
-## Repo Contents
+## Repository Contents
 - `option_pricing_MC.ipynb` – code implementation (no outputs).
 - `Outputs/` – key plots from simulations.
 
