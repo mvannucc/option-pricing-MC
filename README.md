@@ -9,14 +9,14 @@ and studied sensitivity to simulation parameters.
 
 ## Project Structure
 
-1. **Introduction to Monte Carlo Methods**
-2. **Simulation Methods for Underlying Stock Price**
-   2.1 Initial parameters
-   2.2 Implementation of Stock Price Simulation Methods
-   2.3 Convergence
-3. **European and Binary Call Options**
-   3.1 Pricing Options
-   3.2 Methods Validation
+1. **Introduction to Monte Carlo Methods**  
+2. **Simulation Methods for Underlying Stock Price**  
+   2.1 Initial parameters  
+   2.2 Implementation of Stock Price Simulation Methods  
+   2.3 Convergence  
+3. **European and Binary Call Options**  
+   3.1 Pricing Options  
+   3.2 Methods Validation  
 4. **Sensitivity Analysis**
    4.1 Analysis Framework
 5. **Results**
