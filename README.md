@@ -6,15 +6,10 @@ Compared results with Black–Scholes closed-form solution and studied parameter
 ## Repo Contents
 - `option_pricing_MC.ipynb` – code implementation (no outputs).
 - `report.pdf` – detailed write-up with results.
-- `figures/` – key plots from simulations.
+- `Outputs/` – key plots from simulations.
 
 ## Example Result
-![Convergence of MC price](figures/convergence.png)
-
-## Run It
-```bash
-pip install -r requirements.txt
-
+![Convergence of MC price](Outputs/nsim_european.png)
 
 ## References
 
